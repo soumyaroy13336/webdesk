@@ -113,3 +113,11 @@ PORT = '8000' <br>
 CRYPTOJS_SECRET_KEY = 'your_cryptojs_key' <br>
 JWT_SECRET_KEY = 'your_jwt_secret_key' <br>
 REACT_APP_SOCKET_SERVER_URL = 'your_socket_server_url' <br>
+
+
+## Testing Account:
+username : soumyaroy13336@gmail.com <br>
+  password : test1234 <br>
+- if you want to know the admin username and password then contact me [Soumen Jana](https://github.com/soumyaroy13336)
+or
+- Linkedin: [Soumen Jana](www.linkedin.com/in/soumen-jana-62a700236)
