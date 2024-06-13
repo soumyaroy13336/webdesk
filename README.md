@@ -92,8 +92,24 @@ this issue to a large extend by enabling a single window for teachers and facult
 
 ## 🐱‍👤 Contributors:
 
+- [Soumen Jana](https://github.com/soumyaroy13336)
 - [Abhik Das](https://github.com/abhidevs)
 - [Biswanath Bera](https://github.com/Bisu03)
 - [Rabbil khan](https://github.com/Rabbkhan)
 - [Soumen Sau](https://github.com/Soumen2022)
-- [Soumen Jana](https://github.com/soumyaroy13336)
+
+
+## .env setup:
+Backend setup: <br>
+REACT_APP_FIREBASE_API_KEY = "your_firebase_apikey" <br>
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID = "your_firebase_messaging_sender_id" <br>
+REACT_APP_FIREBASE_APP_ID = "your_firebase_appid" <br>
+REACT_APP_PROXY_URL = "your_backend_server_url" <br>
+REACT_APP_SOCKET_SERVER_URL = "your_socket_server_url" <br>
+
+Frontend setup: <br>
+MONGO_URL = 'your_mongodb_url' <br>
+PORT = '8000' <br>
+CRYPTOJS_SECRET_KEY = 'your_cryptojs_key' <br>
+JWT_SECRET_KEY = 'your_jwt_secret_key' <br>
+REACT_APP_SOCKET_SERVER_URL = 'your_socket_server_url' <br>
